@@ -19,7 +19,7 @@ elif player == "scissors" and computer == "rock":
 elif player == "scissors" and computer == "paper":
     print("You win!")
 else:
-    print("You lose!")
+    print("You win!")
 
 import random
 
@@ -42,7 +42,7 @@ elif player == "scissors" and computer == "rock":
 elif player == "scissors" and computer == "paper":
     print("You win!")
 else:
-    print("You lose!")
+    print("You Win!")
 
 
 import random
